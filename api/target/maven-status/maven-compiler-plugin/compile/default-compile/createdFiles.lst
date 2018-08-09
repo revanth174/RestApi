@@ -1,0 +1,3 @@
+com\nvr\api\configuration\WebServletConfiguration.class
+com\nvr\api\controller\MainController.class
+com\nvr\api\configuration\SpringConfig.class
